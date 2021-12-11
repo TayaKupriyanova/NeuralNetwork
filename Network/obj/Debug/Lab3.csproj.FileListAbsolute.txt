@@ -1,0 +1,8 @@
+C:\Users\Тая\Downloads\Lab3-master\Lab3-master\bin\Debug\Lab3.exe.config
+C:\Users\Тая\Downloads\Lab3-master\Lab3-master\bin\Debug\Lab3.exe
+C:\Users\Тая\Downloads\Lab3-master\Lab3-master\bin\Debug\Lab3.pdb
+C:\Users\Тая\Downloads\Lab3-master\Lab3-master\obj\Debug\Lab3.csproj.AssemblyReference.cache
+C:\Users\Тая\Downloads\Lab3-master\Lab3-master\obj\Debug\Lab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Тая\Downloads\Lab3-master\Lab3-master\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Тая\Downloads\Lab3-master\Lab3-master\obj\Debug\Lab3.exe
+C:\Users\Тая\Downloads\Lab3-master\Lab3-master\obj\Debug\Lab3.pdb
